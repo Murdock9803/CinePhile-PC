@@ -13,6 +13,21 @@ html, body {
     padding: 0;
 }
 
+::-webkit-scrollbar {
+    background: transparent;
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: grey;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-corner {
+    border-radius: 10px;
+    background: grey;
+}
+
 @font-face {
     font-family: 'kajiro';
     src: url(fonts/KajiroBold.ttf);
