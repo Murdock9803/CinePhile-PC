@@ -1,5 +1,5 @@
 ## PROJECT TITLE
-The name of this project is : CinePhile - PC
+The name of this project is : ***CinePhile - PC***
 
 ![](images/image.png)
 
