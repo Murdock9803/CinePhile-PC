@@ -279,7 +279,7 @@ html, body {
 
 #next {
     height: 100vh;
-    background-image: url(images/theatre.jpg);
+    background-image: url(https://images.pexels.com/photos/2020432/pexels-photo-2020432.jpeg?cs=srgb&dl=pexels-phreewil-2020432.jpg&fm=jpg);
     background-size: cover;
     display: flex;
     align-items: center;
