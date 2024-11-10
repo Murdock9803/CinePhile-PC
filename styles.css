@@ -447,14 +447,17 @@ section {
   
   #image-track > .frame > .textbox > .subheader {
     font-family: 'Roboto', sans-serif;
-    font-size: 2vmin;
+    font-size: 2.1vmin;
     letter-spacing: 2px;
+    width: 100%;
     position: relative;
     left: 10vmin;
     transition: all 1s;
     color: #ffffff00;
     text-wrap: nowrap;
     align-self: end;
+    text-decoration: none;
+    text-align: center;
   }
   #image-track > .frame:hover > .textbox > .subheader {
     left: 2vmin;
