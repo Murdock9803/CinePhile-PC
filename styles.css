@@ -183,7 +183,7 @@ html, body {
 }
 
 #middle {
-    height: 100vh;
+    height: 95vh;
     width: 100%;
     background-color: #788386;
 }
@@ -278,7 +278,7 @@ html, body {
 }
 
 #next {
-    height: 100vh;
+    height: 95vh;
     background-image: url(https://images.pexels.com/photos/2020432/pexels-photo-2020432.jpeg?cs=srgb&dl=pexels-phreewil-2020432.jpg&fm=jpg);
     background-size: cover;
     display: flex;
@@ -467,7 +467,7 @@ section {
 
 
 .bottom {
-    height: 31vh;
+    height: 33vh;
     width: 100%;
     background-color: #151520;
     padding: 5vh;

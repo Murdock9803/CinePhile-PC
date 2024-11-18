@@ -45,7 +45,6 @@ Shery.imageEffect("#back", {
 
 
 //h1 scroll motion 
-
 var elems = document.querySelectorAll(".elem");
 
 elems.forEach( function(elem){
