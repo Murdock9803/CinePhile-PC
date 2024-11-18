@@ -21,8 +21,8 @@ For local development, you just need to
 Some enhancements and additions to be done in this project include (but is not limited to) :
 * Personal movie list maker
 * Movie Recommendation system based on genre, region, etc..
-* Movie Recommendation system based on user's activity (machine learning approach)
-* Addition of all `APIs` information related to movies
+* Movie Recommendation system based on user's activity (machine learning approach).
+* Addition of all `APIs` information related to movies.
 * Search Engine library for better searching.
 
 If you have any more ideas or find any errors, you can always raise an [issue here](https://github.com/Murdock9803/CinePhile-PC/issues).
