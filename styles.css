@@ -81,6 +81,11 @@ html, body {
     gap: 40px;
 }
 
+.cmdb-link {
+    border: 2px solid white;
+    padding: 3px 10px;
+}
+
 #navleft img {
     height: 40px;
     border: 2px solid rgb(255, 255, 255);
